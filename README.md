@@ -3,5 +3,6 @@
     <img src="img/logo.png" alt="Logo">
   </a>
   
-  <h3 align="center">WPU-HUT</h3>
 </p>
+
+Bekerja dengan JSON dalam seri pembelajaran REST-API di channel Web Programming Unpas
